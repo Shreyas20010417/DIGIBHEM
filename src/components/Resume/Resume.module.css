@@ -1,0 +1,44 @@
+.resumeContainer {
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px;
+  }
+  
+  .resumeTitle {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .resumeButtons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .viewBtn,
+  .downloadBtn {
+    padding: 12px 24px;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    cursor: pointer;
+  }
+  
+  .viewBtn {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  .downloadBtn {
+    background-color: #28a745;
+    color: #fff;
+  }
+  
+  .viewBtn:hover,
+  .downloadBtn:hover {
+    opacity: 0.85;
+  }
+  

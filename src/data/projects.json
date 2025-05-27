@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Basic Network Packet Sniffer ",
+    "imageSrc": "projects/project.png",
+    "description": " Developed a real-time network packet sniffer using Python and Scapy to capture and analyze traffic.",
+    "skills": ["Python","Scapy" ] ,
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Password Strength Analyzer ",
+    "imageSrc": "projects/project.png",
+
+    "description": " Created a password strength checker using Python and Regular Expressions to evaluate password security.",
+    "skills": ["Python"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Automated Vulnerability Scanner",
+    "imageSrc": "projects/project.png",
+    "description": "Built a tool using Python, Nmap, and OWASP ZAP to scan websites and networks for security flaws.",
+    "skills": ["Python"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

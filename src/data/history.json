@@ -1,0 +1,27 @@
+[
+  {
+    "role": "Cyber Security Intern",
+    "organisation": "Skill Logic Pvt Ltd",
+    "startDate": "Feb, 2023",
+    "endDate": "Jun, 2023",
+    "experiences": [
+      "Performed penetration testing using bootable USBs with Rufus",
+      "Conducted Wi-Fi pentesting using airmon-ng",
+      "Scanned web servers for vulnerabilities using Nikto",
+      "Simulated DoS attacks in Kali Linux"
+    ],
+     "imageSrc": "history/microsoft.png"
+  },
+  {
+    "role": "Cybersecurity Project Developer",
+    "organisation": "Academic & Self Projects",
+    "startDate": "2022",
+    "endDate": "Present",
+    "experiences": [
+      "Built a real-time network packet sniffer using Scapy",
+      "Created a password strength analyzer with Python & Regex",
+      "Developed an automated vulnerability scanner using Nmap & OWASP ZAP"
+    ],
+     "imageSrc": "history/netflix.png"
+  }
+]
